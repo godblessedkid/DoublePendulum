@@ -1,6 +1,6 @@
 # Description
 
-A double pgysical pendulum simulator (written in Golang) which uses the Runge-Kutta (RK) 4th order method and Euler method to solve the set of differential equations from the Euler-Lagrangian formulation.
+A double physical pendulum simulator (written in Golang) which uses the Runge-Kutta (RK) 4th order method and Euler method to solve the set of differential equations from the Euler-Lagrangian formulation.
 
 https://en.wikipedia.org/wiki/Double_pendulum
 
