@@ -19,7 +19,7 @@ The following packages are used:
 
 ## To Do 
 - Add more solution methods 
-- Add funtion graphics for angles and system energy
+- Add function graphics for angles and system energy
 
 ## Contributors & contact information
 Beskrovnyy Stepan / @godblessedkid / bsm099@gmail.com
