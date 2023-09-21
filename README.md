@@ -18,7 +18,7 @@ The following packages are used:
 
 
 ## To Do 
-- Add more solutions methods 
+- Add more solution methods 
 - Add funtion graphics for angles and system energy
 
 ## Contributors & contact information
