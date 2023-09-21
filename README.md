@@ -13,7 +13,7 @@ The following packages are used:
 
 
 ## Usage instructions
- - Load problem parameters with JSON file 
+ - Load problem parameters with JSON file (example : `parameters.json` ) 
  - Start with `Oprions/Start Simulation`
 
 
