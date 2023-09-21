@@ -1,0 +1,24 @@
+{
+ "title": "Double Pendulum",
+ "segments": [
+ {
+ "length": 5,
+ "mass": 2,
+ "theta0": 1.57,
+ "omega0": 0
+ },
+ {
+ "length": 3,
+ "mass": 5,
+ "theta0": 1.57,
+ "omega0": 0
+ }
+ ],
+ "duration": 5,
+ "solver": {
+ "type": "Runge-Kutta",
+ "parameters": {
+ "dt": 0.01
+ }
+ }
+} 
